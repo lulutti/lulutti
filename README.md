@@ -15,12 +15,20 @@ No momento estou aprendendo as seguintes tecnologias:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js%20-39933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SEQUELIZE](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![InteliJ](https://img.shields.io/badge/IntelliJ-Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+<p>Meus estudos também envolvem testes unitários, testes de API, automação , metodologias ágeis (SCRUM, KANBAN, SPRINTS) e UX/UI design.</p>
 
-<p>Meus estudos também envolvem testing, metodologias ágeis(SCRUM, KANBAN, SPRINT) e UX/UI design.</p>
+ ![JEST](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
+ ![POSTMAN](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+ ![ROBOTFRAMEWORK](https://img.shields.io/badge/robotframework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+ ![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ 
+
 
 <div> 
   <a href = "mailto:malludra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
