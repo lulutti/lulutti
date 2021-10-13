@@ -14,6 +14,7 @@ No momento estou aprendendo as seguintes tecnologias:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js%20-39933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/npm%20-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SEQUELIZE](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
