@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lulutti&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulutti&layout=compact&langs_count=7&theme=onedark"/>
   </a>
-</div>
+</div><br>
 ✨ Sou aluna bolsista do curso <strong>Certified Tech Developer</strong>, um programa da <a href="https://www.digitalhouse.com/br">Digital House</a> em parceira com a <a href="https://www.globant.com/pt-br">Globant</a> e <a href="https://www.mercadolivre.com.br/institucional">Mercado Livre</a> para formação de desenvolvedores FullStack no Brasil.<br><br>
 No momento estou aprendendo as seguintes tecnologias:
 
