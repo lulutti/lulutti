@@ -13,6 +13,8 @@ No momento estou aprendendo as seguintes tecnologias:
 ![SASS](https://img.shields.io/badge/SASS%20-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm%20-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
